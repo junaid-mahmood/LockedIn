@@ -2,6 +2,10 @@
 
 A modern React-based flashcard application designed to help users create, study, and manage custom flashcard sets. 
 
+## Demo
+
+Check out the live demo: [Flashcard App](https://myflashlock.vercel.app/)
+
 ## Features
 
 - **Create Custom Flashcards:** Easily create flashcards with terms and definitions.
